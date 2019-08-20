@@ -1,0 +1,4 @@
+Planning React Application
+-Component  tree /Component structure
+-Application State(data)
+-Components vs containers
